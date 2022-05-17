@@ -1,0 +1,5 @@
+[submodule "bmmr-t1w-250um"]
+	path = bmmr-t1w-250um
+	url = https://github.com/datalad-datasets/bmmr-t1w-250um
+	datalad-id = c8339e6a-502f-11e8-b2ed-a0369fb55db0
+	datalad-url = https://github.com/datalad-datasets/bmmr-t1w-250um
